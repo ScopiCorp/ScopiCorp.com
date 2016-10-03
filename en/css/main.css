@@ -233,7 +233,7 @@ section#caracteristicas .icono i {
 
 section#productintro {
 	min-height: 650px;
-	background-image: url(../img/2_KPIofYourBusiness.jpg);
+	background-image: url(../../img/2_KPIofYourBusiness.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover; /*cojera todo el ancho y alto de su contenedor*/
@@ -241,7 +241,7 @@ section#productintro {
 }
 section#contactsection {
 	min-height: 600px;
-	background-image: url(../img/CostaDelSolMap.png);
+	background-image: url(../../img/CostaDelSolMap.png);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover; /*cojera todo el ancho y alto de su contenedor*/
@@ -274,7 +274,7 @@ section#descargar div.derecha-vacio {
 	float: right;
 	height: 100%;
 	z-index: 6;
-	background-image: url(../img/descargaAppBG.png);
+	background-image: url(../../img/descargaAppBG.png);
 	background-repeat: no-repeat;
 	background-position: bottom right;
 }
@@ -467,7 +467,7 @@ section#soporte .btn.btn-default {
 /*font-family: 'Raleway', sans-serif;*/
 #dashboardsectionintro {
 	min-height: 600px;
-	background-image: url(../img/televizorius_pasuktas_dashboard_opt.png);
+	background-image: url(../../img/televizorius_pasuktas_dashboard_opt.png);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-size: 50%;
@@ -478,7 +478,7 @@ section#soporte .btn.btn-default {
 
 #happycustomersectionintro {
     min-height: 600px;
-	background-image: url(../img/Happy-customers_7.jpg);
+	background-image: url(../../img/Happy-customers_7.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover; 
@@ -495,7 +495,7 @@ section#soporte .btn.btn-default {
 }
 
 .pic1 {
-    background-image: url('../img/photo-1427348693976-99e4aca06bb9.jpg');
+    background-image: url('../../img/photo-1427348693976-99e4aca06bb9.jpg');
 	background-repeat: no-repeat;
 	background-attachment: scroll;
     background-position: center center;
@@ -509,7 +509,7 @@ section#soporte .btn.btn-default {
 
 .pic2 {
     
-    background-image: url('../img/photo-1435244837924-21c508f9db25.jpg');
+    background-image: url('../../img/photo-1435244837924-21c508f9db25.jpg');
 	background-repeat: no-repeat;
 	background-attachment: scroll;
     background-position: center center;
@@ -521,7 +521,7 @@ section#soporte .btn.btn-default {
 }
 .pic3 {
     
-    background-image: url('../img/photo-1448317846460-907988886b33.jpg');
+    background-image: url('../../img/photo-1448317846460-907988886b33.jpg');
 	background-repeat: no-repeat;
 	background-attachment: scroll;
     background-position: center center;
