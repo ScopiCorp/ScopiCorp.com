@@ -1,2 +1,1 @@
-# ScopiCorp.com
-ScopiCorp website
+Nothing here
